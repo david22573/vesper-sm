@@ -167,21 +167,21 @@ vesper-sm/
 ## Development Roadmap
 
 ### Phase 1: Core Vault ✅
-- [x] Vault creation and management
-- [x] Argon2id key derivation
-- [x] AES-GCM encryption
-- [x] XOR key wrapping
-- [x] JSON storage backend
+- [ ] Vault creation and management
+- [ ] Argon2id key derivation
+- [ ] AES-GCM encryption
+- [ ] XOR key wrapping
+- [ ] JSON storage backend
 
 ### Phase 2: CLI 🚧
-- [x] Basic CRUD operations
-- [x] Multi-vault support
+- [ ] Basic CRUD operations
+- [ ] Multi-vault support
 - [ ] Clipboard integration
 - [ ] Environment variable injection
 - [ ] Shell completions
 
 ### Phase 3: Storage Backends
-- [x] JSON file vaults
+- [ ] JSON file vaults
 - [ ] SQLite for structured storage
 - [ ] Redis for distributed caching
 - [ ] Vault (HashiCorp) integration
